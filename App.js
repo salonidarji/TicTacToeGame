@@ -153,7 +153,7 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.title}>LCO - TicTacToe - App</Text>
+        <Text style={styles.title}>TicTacToe - App</Text>
         <View style={styles.grid}>
           <View style={styles.row}>
             <View style={styles.item}>
